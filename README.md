@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vijayeshmt
 - 👀 Exploring technology
-- 🌱 I’m currently learning Mechanical Engineering
 - 📫 Contact me at vijayeshmt@gmail.com
 
 
